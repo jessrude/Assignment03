@@ -7,4 +7,4 @@ for (let i = 1; i <= num; i++) {
     } else {
         console.log('Tails')
     }
-}
+} 
